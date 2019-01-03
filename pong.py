@@ -287,6 +287,3 @@ Pong()
 
 
 
-'''
-http://fsincere.free.fr/isn/python/cours_python_tkinter.php
-'''
